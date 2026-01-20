@@ -1,7 +1,3 @@
-Use this exactly as your README.md format and fill it in as you go:
-
----
-
 # Sephora Product & Customer Insight Analysis
 
 ## Business Context
@@ -52,7 +48,3 @@ This section will summarize insights that could support Sephora’s product, mar
 ## Learning Notes
 
 This is a learning-focused project. I document what I try, what works, what doesn’t, and what I learn along the way.
-
-## Status
-
-In progress
