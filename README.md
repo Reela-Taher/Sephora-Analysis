@@ -19,7 +19,8 @@ This project simulates working as a Business Analyst at Sephora. The goal is to 
 ## Data
 
 Dataset: Sephora Products and Skincare Reviews (Kaggle)
-Contains product info, ratings, review text, and engagement metrics.
+
+https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/code
 
 ## Tools
 
